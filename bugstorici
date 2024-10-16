@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>div e css</title>
+   <style>
+        #scatola1{
+            background-color:grey;
+                width: 335px;
+                height: 600px;
+                border: 5px solid black;
+                margin: 10px;
+             padding: 10px;
+            
+            }
+
+        #piccolascatola1{
+            background-color: white;
+            width: 300px;
+            height: 275px;
+            margin: 10px;
+            border: 5px solid black; padding: 5px;
+           
+        }
+
+        #piccolascatola2{
+            background-color: white;
+            width: 300px;
+            height: 250px;
+            margin: 10px;
+            border: 5px solid black;
+            padding: 5px;
+        }
+             
+        #scatola2{
+            background-color:grey;
+                width: 335px;
+                height: 600px;
+                border: 5px solid black;
+                margin: 10px;
+                padding: 10px;
+            }
+                
+                
+                #piccolascatola3{
+            background-color: white;
+            width: 300px;
+            height: 275px;
+            margin: 10px;
+            border: 5px solid black; padding: 5px;
+                   
+        }
+
+        #piccolascatola4{
+            background-color: white;
+            width: 300px;
+            height: 250px;
+            margin: 10px;
+            border: 5px solid black;
+            
+        }
+
+
+        #scatola3{
+            background-color:grey;
+                width: 335px;
+                height: 600px;
+                border: 5px solid black;
+                margin: 10px;
+                padding: 10px;
+            }
+                
+                
+                #piccolascatola5{
+            background-color: white;
+            width: 300px;
+            height: 275px;
+            margin: 10px;
+            border: 5px solid black; padding: 5px;
+                 
+        }
+
+        #piccolascatola6{
+            background-color: white;
+            width: 300px;
+            height: 250px;
+            margin: 10px;
+            border: 5px solid black;
+          
+        }
+
+        #scatola4{
+            background-color:grey;
+                width: 335px;
+                height: 600px;
+                border: 5px solid black;
+                margin: 10px;
+                padding: 10px;
+            }
+                
+                
+                #piccolascatola7{
+            background-color: white;
+            width: 300px;
+            height: 275px;
+            margin: 10px;
+            border: 5px solid black; padding: 5px;
+           
+        }
+
+        #piccolascatola8{
+            background-color: white;
+            width: 300px;
+            height: 250px;
+            margin: 10px;
+            border: 5px solid black;
+           
+        }
+                    
+                
+    
+ 
+
+
+   </style>
+
+
+
+</head>
+<body>
+    <div id="scatola1">
+
+       <div id="piccolascatola1">
+
+        <img src=""  width="300" height="275">
+
+       </div> 
+
+       <div id=piccolascatola2>
+        circa 370 milioni di dollari
+        Il lancio inaugurale del razzo Ariane 5 dell'Agenzia Spaziale Europea fallì a causa di un bug nel software.
+      
+        Il sistema di navigazione riutilizzava codice dall'Ariane 4, che non era stato adattato ai cambiamenti delle prestazioni del nuovo razzo.
+       
+        Ciò provocò un errore di overflow in una conversione di un numero a virgola mobile. Il razzo deviò dalla sua rotta e fu distrutto.
+        
+        Perdita di un razzo da 370 milioni di dollari e di carichi utili scientifici di alto valore. 
+
+     
+       
+        </div>
+
+     </div>
+    
+
+    <div id="scatola2">
+
+        <div id="piccolascatola3">
+
+            <img src=""   width="300" height="275">
+
+        </div>
+
+        <div id="piccolascatola4">
+
+        Un PC ha:
+        <p></p>
+        Scheda madre: il cuore del computer. 
+        <p></p>
+        CPU (processore): il cervello.
+        <p></p>
+        RAM: memoria a breve termine.
+        <p></p>
+        Disco rigido o SSD: memoria a lungo termine.
+        <P></P>
+        Scheda grafica: per video e giochi.
+        <P></P>
+        Alimentatore: fornisce energia.
+
+        </div>
+        
+    </div>
+
+    <div id="scatola3">
+
+        <div id="piccolascatola5">
+
+            <img src=""  width="300" height="275"> 
+
+        </div>
+
+        <div id="piccolascatola6">
+        La ventola nel PC serve a mantenere fresco il          
+        computer impedendo che i componenti si surriscaldino.
+        <p></p> 
+        Aiuta a far circolare l'aria dentro il case, 
+        raffreddando parti come il processore e la scheda grafica.
+        <p></p> 
+        Senza la ventola, il PC potrebbe bloccarsi o danneggiarsi per il calore eccessivo.
+
+
+        </div>
+          
+
+    </div>
+
+    <div id="scatola4">
+
+        <div id="piccolascatola7">
+          
+            <img src=""  width="300" height="275">
+
+        </div>
+
+        <div id="piccolascatola8">
+
+            La scheda madre è la componente principale del PC che collega tutti gli altri componenti tra loro. 
+            <p></p>
+            È come una grande "centralina" dove sono inseriti il processore, la RAM, le schede video, e tutte le altre parti del computer.
+            <p></p> 
+            Senza di essa, niente funzionerebbe.
+        
+            
+
+
+
+
+        </div>
+          
+
+    </div>
+
+
+</body>
+</html>
